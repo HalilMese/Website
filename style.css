@@ -613,10 +613,3 @@ section::before {
     justify-content: center;
   }
 }
-
-@media (prefers-reduced-motion: reduce) {
-  * {
-    animation: none !important;
-    transition: none !important;
-  }
-}

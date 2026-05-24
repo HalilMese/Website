@@ -61,7 +61,7 @@ const projects = [
     language: 'JavaScript',
     repo: 'Wetter-Website',
     link: 'https://github.com/HalilMese/Wetter-Website',
-    icon: '🌦️',
+    icon: '🌞',
     tags: ['Web App', 'API', 'Charts'],
     category: 'web'
   },
@@ -190,4 +190,4 @@ skipLink.className = 'skip-link';
 skipLink.textContent = 'Skip to main content';
 document.body.prepend(skipLink);
 
-console.log('Portfolio Portfolio geladen - Willkommen! 👋');
+console.log('Portfolio geladen - Willkommen! 👋');
